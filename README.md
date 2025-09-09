@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **EEG - data set of social meadia**
 
-- 🌱 I’m currently learning **Credit Risk and DSA**
-
 - 📫 How to reach me **rohittripathyy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
